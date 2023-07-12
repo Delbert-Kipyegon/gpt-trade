@@ -50,5 +50,5 @@ const main = async ({ port }) => {
 }
 
 main({
-  port: process.env.APP_PORT || 8152
+  port: process.env.APP_PORT || 3000
 })
